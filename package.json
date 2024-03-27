@@ -1,0 +1,16 @@
+{
+  "name": "m.99atm-machine",
+  "version": "1.0.0",
+  "description": "This  ATM will basic features of a real ATM. A user interacts with the program through text prompts, performing actions like checking balance, withdrawing cash, and (optionally) depositing",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
